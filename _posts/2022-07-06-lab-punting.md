@@ -7,4 +7,4 @@ group: news
 
 <img src="/static/img/news/punting.jpg" alt="Punting" class="img-fluid">
 
-Good fun was had by all at the group Christmas dinner held at the Cambridge Chophouse.
+Last week members of the lab went punting along the Cam.
