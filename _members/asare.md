@@ -1,7 +1,7 @@
 ---
 name: Prince Asare PhD
 startdate: [2022-07-13]
-enddate: []
+enddate: [2022-12-22]
 image: /static/img/members/asare.jpg #365 x 365 pixels, 72 dpi
 position: Visiting Fellow
 #subsequent:  update once you become an alumnus
