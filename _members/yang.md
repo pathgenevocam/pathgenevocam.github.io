@@ -1,7 +1,7 @@
 ---
 name: Dr Lu Yang
 startdate: [2023-01-09]
-enddate: []
+enddate: [2023-06-20]
 image: /static/img/members/yang.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Visiting Scholar
