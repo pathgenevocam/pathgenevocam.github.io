@@ -1,7 +1,7 @@
 ---
 name: Dr Anja Werno
 startdate: [2023-05-03]
-enddate: []
+enddate: [2023-06-01]
 image: /static/img/members/werno.jpg
 position: Visiting Scholar
 #subsequent:  update once you become an alumnus
