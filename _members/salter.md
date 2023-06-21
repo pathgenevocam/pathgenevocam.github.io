@@ -4,7 +4,7 @@ startdate: [2019-06-03]
 enddate: []
 image: /static/img/members/salter.jpg #365 x 365 pixels, 72 dpi
 #altimage: "Susannah Salter"
-position: Research Assistant
+position: Research Assistant/PhD student
 #subsequent:  update once you become an alumnus
 pronouns: she/hers #personal pronouns
 email: sjs263@cam.ac.uk #Preferred public email address
