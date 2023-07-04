@@ -1,7 +1,7 @@
 ---
 name: Dr Emmanuel Ngbede
 startdate: [2023-06-05]
-enddate: []
+enddate: [2023-06-30]
 image: /static/img/members/ngbede.jpg #365 x 365 pixels, 72 dpi
 position: Visiting Researcher
 #subsequent:  update once you become an alumnus
