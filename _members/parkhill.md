@@ -3,7 +3,7 @@ name: Professor Julian Parkhill FRS FMedSci
 startdate: [2019-06-03]
 enddate: []
 image: /static/img/members/parkhill.jpg
-position: Marks and Spencer’s Professor #Professor of Bacterial Evolution
+position: Professor of Bacterial Evolution
 #current:
 pronouns: he/him/his
 email: jp369@cam.ac.uk
