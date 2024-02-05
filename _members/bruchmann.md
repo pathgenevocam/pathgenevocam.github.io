@@ -6,7 +6,7 @@ image: /static/img/members/bruchmann.jpg #365 x 365 pixels, 72 dpi
 position: Senior Research Associate
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
-email: shgb2@cam.ac.uk #Preferred public email address
+email: shgb2 (at) cam.ac.uk #Preferred public email address
 scholar: nHWAatUAAAAJ #Google Scholar User ID
 website:
 twitter: Doktor_Basti

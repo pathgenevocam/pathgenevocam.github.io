@@ -7,7 +7,7 @@ altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: PhD Student
 #subsequent:  update once you become an alumnus
 pronouns: She/Her #personal pronouns
-email: lj379@cam.ac.uk #Preferred public email address
+email: lj379 (at) cam.ac.uk #Preferred public email address
 scholar: #Google Scholar User ID
 website: 
 twitter: lauren_jacocks 

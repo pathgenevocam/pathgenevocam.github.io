@@ -6,7 +6,7 @@ image: /static/img/members/minhthi.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/minhthi.jpg #365 x 365 pixels, 72 dpi
 position: PhD student
 pronouns: she/hers
-email: linc5547@ox.ac.uk
+email: linc5547 (at) ox.ac.uk
 scholar: #Google Scholar User ID
 website: 
 twitter:

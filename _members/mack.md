@@ -7,7 +7,7 @@ image: /static/img/members/mack.jpg #365 x 365 pixels, 72 dpi
 position: Research Assistant
 #subsequent:  update once you become an alumnus
 pronouns: she/hers #personal pronouns
-email: skm62@cam.ac.uk #Preferred public email address
+email: skm62 (at) cam.ac.uk #Preferred public email address
 scholar:  #Google Scholar User ID
 website: 
 twitter: 

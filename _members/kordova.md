@@ -6,7 +6,7 @@ image: /static/img/members/kordova.jpg #365 x 365 pixels, 72 dpi
 position: PhD student
 #subsequent:  update once you become an alumnus
 pronouns: she/hers #personal pronouns
-email: kvk22@cam.ac.uk #Preferred public email address
+email: kvk22 (at) cam.ac.uk #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
 twitter: KristinaKordova

@@ -7,7 +7,7 @@ image: /static/img/members/ruis.jpg #365 x 365 pixels, 72 dpi
 position: Research Associate
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
-email: cr628@cam.ac.uk #Preferred public email address
+email: cr628 (at) cam.ac.uk #Preferred public email address
 scholar: uBrBMBYAAAAJ #Google Scholar User ID
 website: 
 twitter: chris3ruis

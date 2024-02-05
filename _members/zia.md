@@ -7,7 +7,7 @@ image: /static/img/members/zia.jpg #365 x 365 pixels, 72 dpi
 position: PhD student
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
-email: uurz2@cam.ac.uk #Preferred public email address
+email: uurz2 (at) cam.ac.uk #Preferred public email address
 scholar: ClVVjtsAAAAJ #Google Scholar User ID
 website: 
 twitter: urziabhutta

@@ -7,7 +7,7 @@ image: /static/img/members/collins.jpg #365 x 365 pixels, 72 dpi
 position: Research Associate
 # subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
-email: cc2131@cam.ac.uk #Preferred public email address
+email: cc2131 (at) cam.ac.uk #Preferred public email address
 scholar: z3usRLcAAAAJ #Google Scholar User ID
 website: 
 twitter: 

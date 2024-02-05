@@ -6,7 +6,7 @@ image: /static/img/members/parkhill.jpg
 position: Professor of Bacterial Evolution
 #current:
 pronouns: he/him/his
-email: jp369@cam.ac.uk
+email: jp369 (at) cam.ac.uk
 scholar: OghCU6kAAAAJ
 website:
 UCSF:

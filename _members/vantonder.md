@@ -7,7 +7,7 @@ image: /static/img/members/vantonder.jpg
 position: Research Associate
 subsequent:
 pronouns: he/him/his
-email:  ajv37@cam.ac.uk
+email:  ajv37 (at) cam.ac.uk
 scholar: SxloJIkAAAAJ
 website:
 UCSF:

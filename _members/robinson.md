@@ -1,7 +1,7 @@
 ---
 name: Dr Carl Robinson
 startdate: [2020-10-01]
-enddate: []
+enddate: [2024-01-31]
 image: /static/img/members/robinson.jpg #365 x 365 pixels, 72 dpi
 position: Senior Research Associate
 #subsequent:  update once you become an alumnus

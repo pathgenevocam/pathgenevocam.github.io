@@ -6,7 +6,7 @@ image: /static/img/members/aubry.jpg #365 x 365 pixels, 72 dpi
 position: PhD student
 #subsequent:  update once you become an alumnus
 pronouns: he/him #personal pronouns
-email: ea597@cam.ac.uk #Preferred public email address
+email: ea597 (at) cam.ac.uk #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
 twitter: 

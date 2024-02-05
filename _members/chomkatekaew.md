@@ -7,7 +7,7 @@ altimage: #365 x 365 pixels, 72 dpi
 position: PhD student
 #subsequent:  update once you become an alumnus
 pronouns: she/hers #personal pronouns
-email: cc2188@cam.ac.uk #Preferred public email address
+email: cc2188 (at) cam.ac.uk #Preferred public email address
 scholar: #Google Scholar User ID
 website: 
 twitter: CChomkatekaew

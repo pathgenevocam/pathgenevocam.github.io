@@ -7,7 +7,7 @@ image: /static/img/members/salter.jpg #365 x 365 pixels, 72 dpi
 position: Research Assistant/PhD student
 #subsequent:  update once you become an alumnus
 pronouns: she/hers #personal pronouns
-email: sjs263@cam.ac.uk #Preferred public email address
+email: sjs263 (at) cam.ac.uk #Preferred public email address
 scholar: eeqyJF0AAAAJ #Google Scholar User ID
 website: 
 twitter: zannah_du
