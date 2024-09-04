@@ -1,11 +1,11 @@
 ---
 name: Noémie Lefrancq
 startdate: [2020-10-01]
-enddate: []
+enddate: [2024-08-30]
 image: /static/img/members/lefrancq.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: PhD student
-#subsequent:  update once you become an alumnus
+#subsequent:  ETH Zurich
 pronouns: she/hers #personal pronouns
 email: ncmjl2 (at) cam.ac.uk #Preferred public email address
 scholar: p2Sg-VcAAAAJ&hl #Google Scholar User ID

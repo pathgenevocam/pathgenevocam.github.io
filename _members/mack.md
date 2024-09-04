@@ -1,7 +1,7 @@
 ---
 name: Sarah Mack
 startdate: [2021-12-01]
-enddate: []
+enddate: [2024-08-30]
 image: /static/img/members/mack.jpg #365 x 365 pixels, 72 dpi
 #altimage: "Susannah Salter"
 position: Research Assistant
