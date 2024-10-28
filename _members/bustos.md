@@ -1,7 +1,7 @@
 ---
 name: Dr Carla Bustos
 startdate: [2024-10-07]
-enddate: []
+enddate: [2024-10-25]
 image: /static/img/members/bustos.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Visiting Researcher
