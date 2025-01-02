@@ -1,10 +1,10 @@
 ---
 name: Dr Sebastian Bruchmann
 startdate: [2019-06-03]
-enddate: []
+enddate: [2024-12-31]
 image: /static/img/members/bruchmann.jpg #365 x 365 pixels, 72 dpi
 position: Senior Research Associate
-#subsequent:  update once you become an alumnus
+subsequent:  Victor Philip Dahdaleh Heart and Lung Research Institute
 pronouns: he/him/his #personal pronouns
 email: shgb2 (at) cam.ac.uk #Preferred public email address
 scholar: nHWAatUAAAAJ #Google Scholar User ID
