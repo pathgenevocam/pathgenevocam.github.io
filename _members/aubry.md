@@ -1,7 +1,7 @@
 ---
 name: Etienne Aubry
 startdate: [2022-10-04]
-enddate: []
+enddate: [2024-12-31]
 image: /static/img/members/aubry.jpg #365 x 365 pixels, 72 dpi
 position: PhD student
 #subsequent:  update once you become an alumnus
