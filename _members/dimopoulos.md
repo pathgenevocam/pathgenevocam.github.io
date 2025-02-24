@@ -1,11 +1,11 @@
 ---
 name: Evangelos Dimopoulos DPhil.
 startdate: [2021-08-09]
-enddate: []
+enddate: [2025-01-31]
 image: /static/img/members/dimopoulos.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Research Associate
-#subsequent:  update once you become an alumnus
+subsequent:  Department of Biology, University of Oxford
 pronouns: he/him/his #personal pronouns
 email: ed601 (at) cam.ac.uk #Preferred public email address
 github: antonisdim
