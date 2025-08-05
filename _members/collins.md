@@ -1,7 +1,7 @@
 ---
 name: Dr Caitlin Collins
 startdate: [2021-10-11]
-enddate: []
+enddate: [2025-06-30] # update once you become an alumnus
 image: /static/img/members/collins.jpg #365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Research Associate
