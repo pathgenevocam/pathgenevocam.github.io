@@ -1,11 +1,11 @@
 ---
 name: Andries van Tonder DPhil.
 startdate: [2016-06-03]
-enddate: []
+enddate: [2026-08-30]
 image: /static/img/members/vantonder.jpg 
 #altimage: 
 position: Research Associate
-subsequent:
+subsequent: Department of Genetics, University of Cambridge
 pronouns: he/him/his
 email:  ajv37 (at) cam.ac.uk
 scholar: SxloJIkAAAAJ
